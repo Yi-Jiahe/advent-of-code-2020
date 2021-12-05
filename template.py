@@ -7,11 +7,19 @@ def part_one():
     logger.info(title)
     logger.info("--- Part One ---")
 
+    # Solution goes here
+
+    logger.info("")
+
 
 def part_two():
     print("--- Part Two ---")
     logger.info(title)
     logger.info("--- Part Two ---")
+
+    # Solution goes here
+
+    logger.info("")
 
 
 if __name__ == '__main__':
